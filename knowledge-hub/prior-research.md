@@ -8,6 +8,10 @@
 ### Types of open source funding
 - FOSS Contributor Funds, https://github.com/indeedeng/FOSS-Contributor-Fund
 - Sovereign Tech Fund (Feasibility Study), https://www.sovereign.tech/public/files/SovereignTechFund_FeasibilityStudy.pdf
+- [Ecosystem Funds](https://funds.ecosyste.ms)
+- Experimental initiatives:
+  - [How I algorithmically donated $5000+ to Open Source via GitHub Sponsors and PyPI data](https://kvinogradov.com/algo-sponsors/)
+  - [Open source public fund experiment](https://dev.to/coni2k/open-source-public-fund-experiment-lc8)
 
 ### Funding and incentives
 - How Are Paid and Volunteer Open Source Developers Different? A Study of the Rust Project, https://dl.acm.org/doi/10.1145/3597503.3639197
@@ -59,3 +63,9 @@
 
 ### Design and effects of quantitative indicators
 - Indicators as Intervention (see "Indicators: Pathologies and Pitfalls" table on p.3), https://iilj.org/wp-content/uploads/2016/08/Davis-Kingsbury-Indicators-as-Interventions-Pitfalls-and-Prospects-in-Supporting-Development-Initiatives-Rockefeller-Foundation-2011.pdf
+
+### Current state
+- [GI sees "danger that Germany will become a digital colony" - In German](https://www.heise.de/news/Informatiker-Ampel-hat-Ziele-fuer-Souveraenitaet-und-Open-Source-klar-verfehlt-10218368.html)
+> At the end of 2023, the executive branch even had to admit that the open source share of federal spending on software development and services since the beginning of the legislative period had only been around 0.5 percent. On the other hand, "billion-dollar contracts were concluded with digital monopolists."
+
+> The associated lock-in effects will result in incalculable costs for budgets in the coming years, it is said. A particularly negative example is the award of a contract worth €4.6 billion to the database monopolist Oracle.
